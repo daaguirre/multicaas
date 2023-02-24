@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/multicaas/static/css/main.78294792.css",
+    "main.js": "/multicaas/static/js/main.c2036379.js",
+    "index.html": "/multicaas/index.html",
+    "main.78294792.css.map": "/multicaas/static/css/main.78294792.css.map",
+    "main.c2036379.js.map": "/multicaas/static/js/main.c2036379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78294792.css",
+    "static/js/main.c2036379.js"
+  ]
+}
